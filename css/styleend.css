@@ -1,0 +1,22 @@
+html, body{
+    height: 100%;
+    text-align: center;
+}
+
+.container {
+justify-content: center;
+}
+
+#button {
+    margin-top: 10vh;
+    height: 15vh;
+}
+
+#button-next {
+    margin-top: 10vh;
+    height: 5vh;
+}
+
+p {
+    margin-top: 5vh;
+}
